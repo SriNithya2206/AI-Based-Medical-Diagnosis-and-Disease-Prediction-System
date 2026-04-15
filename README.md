@@ -56,6 +56,7 @@ python -m streamlit run medical_ai.py
 - Add more symptoms and diseases
 - Build mobile-friendly UI
 
+---
 
 ## ⭐ Conclusion
 This project demonstrates how Machine Learning can be used in healthcare to assist in early disease prediction and decision-making.
